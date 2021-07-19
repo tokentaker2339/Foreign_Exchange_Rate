@@ -1,3 +1,4 @@
 # Foreign_Exchange_Rate
-- Multi-Layered Deep Learning model created to predict end-of-the-month foreign exchange rates on the basis of market data and economic news data
-- Hisad
+•	Built a multi-layer LSTM network using keras to forecast closing values of the Dow Jones Industrial Average index
+•	Integrated sentiment data obtained from daily stock market news headlines to perform multivariate analysis
+
